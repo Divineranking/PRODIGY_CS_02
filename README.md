@@ -34,5 +34,4 @@ This project includes a password strength checker implemented both as a web appl
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/PRODIGY_CS_01.git
-   cd PRODIGY_CS_01
+   git clone https://github.com/Divineranking/PRODIGY_CS_02.git
